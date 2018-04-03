@@ -23,9 +23,7 @@ public class CHECK_STRING {
         String str=  null;
         String str1 = null;
         String str2 = null;
-        
-        String redund = "reclusive";
-        out.println(redund.substring(3, redund.length()));
+
         
         out.println("Input the first string");
         str1 = scan.next();
